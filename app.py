@@ -36,7 +36,7 @@ app.add_middleware(
 )
 
 # MongoDB connection
-client = MongoClient("mongodb+srv://akratirathore21:Akrati12345@clusterar1.jjhs5.mongodb.net/?retryWrites=true&w=majority&appName=ClusterAR1",
+client = MongoClient(mongodb+srv://akratirathore:mymongopassword@clusterbfsi.fxuxm.mongodb.net/?retryWrites=true&w=majority&appName=ClusterBFSI",
     tls=True,
     tlsCAFile=certifi.where()
 )
