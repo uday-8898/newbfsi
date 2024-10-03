@@ -17,7 +17,7 @@ AZURE_CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=aisa0101;A
 CONTAINER_NAME = "bankimage"
 
 PREDICTION_KEY = '20c0b2ad608c42ca87a79ce5759b0d4e'
-PREDICTION_URL = "https://bankclass-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/0fcd9dd4-d8eb-4292-bb15-b3c4819fcc18/classify/iterations/Iteration11/image"
+PREDICTION_URL = "https://bankclass-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/0fcd9dd4-d8eb-4292-bb15-b3c4819fcc18/classify/iterations/Iteration10/image"
  
 # Initialize the client
 endpoint = "https://eastus.api.cognitive.microsoft.com/"
